@@ -46,6 +46,12 @@ module.exports = {
   plugins: [],
 }
 
+  content: [
+    "./App.{js,jsx,ts,tsx}", 
+    "./screens/**/*.{js,jsx,ts,tsx}",
+    "./components/**/*.{js,jsx,ts,tsx}"
+  ],
+
 3. Add the Babel plugin
 
 Modify your babel.config.js
