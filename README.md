@@ -33,6 +33,7 @@
 - npm i react-native-heroicons
 - npm i react-native-heroicons react-native-svg
 - npm i react-native-star-rating
+- npm i deprecated-react-native-prop-types@2.2.0
 - * npx expo install --fix
 - * npx expo install 
 ```
@@ -73,3 +74,9 @@ module.exports = function (api) {
 - npm i
 - npx expo
 - -w or Open Expo App On your Phone
+
+
+## Error
+ERROR  ViewPropTypes will be removed from React Native, along with all other PropTypes. We recommend that you migrate away from PropTypes and switch to a type system like TypeScript. If you need to continue using ViewPropTypes, migrate to the 'deprecated-react-native-prop-types' package.
+
+          - npm i deprecated-react-native-prop-types@2.2.0
