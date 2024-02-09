@@ -15,9 +15,7 @@
 ### 1- [React Native Expo](https://reactnative.dev/)
 ### 2- [NativeWind](https://www.nativewind.dev/)
 ### 3- [React Navigation](https://reactnavigation.org/)
-### 4- [Tabs Navigation](https://reactnavigation.org/docs/tab-based-navigation/)
-### 5- [npm react-native-heroicons](https://www.npmjs.com/package/react-native-heroicons)
-### 6- [react-native-animatable](https://www.npmjs.com/package/react-native-animatable)
+### 4- [npm react-native-heroicons](https://www.npmjs.com/package/react-native-heroicons)
 
 ## Steps
 - npx create-expo-app fruit-App-Ui
@@ -30,9 +28,9 @@
 - npm i react-native-responsive-screen
 - npm i react-native-heroicons
 - npm i react-native-heroicons react-native-svg
-- npm install @react-navigation/bottom-tabs
-- ** npx expo install --fix **
-- ** npx expo install **
+- npm i react-native-star-rating
+- * npx expo install --fix
+- * npx expo install 
 ```
 // tailwind.config.js
 module.exports = {
