@@ -6,9 +6,13 @@
 
 <img src="./preview/homescreen.jpg" style="width:350px;" alt=" Home" />
 
-#### -- Screen
+#### Product Screen
 
-<img src="./preview/.jpg" style="width:350px;" alt=" Home" />
+<img src="./preview/productscreen.jpg" style="width:350px;" alt=" Product" />
+
+#### Cart Screen
+
+<img src="./preview/cartscreen.jpg" style="width:350px;" alt=" Cart" />
 
 
 ## What did we use in the project?
