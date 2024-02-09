@@ -35,7 +35,8 @@
 - npm i react-native-star-rating
 - npm i deprecated-react-native-prop-types@2.2.0
 - * npx expo install --fix
-- * npx expo install 
+- * npx expo install
+- * expo install --fix
 ```
 // tailwind.config.js
 module.exports = {
