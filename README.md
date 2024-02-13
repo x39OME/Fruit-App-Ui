@@ -33,6 +33,7 @@
 - npm i react-native-heroicons
 - npm i react-native-heroicons react-native-svg
 - npm i react-native-star-rating
+- npm i react-native-star-rating-widget
 - npm i deprecated-react-native-prop-types@2.2.0
 - npx expo install --fix
 - npx expo install
